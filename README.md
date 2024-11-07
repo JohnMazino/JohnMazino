@@ -4,7 +4,7 @@
 <br>
 <div align="center">  
 <pre>
-<img scr="assets/FastF.jpg">
+<img height="600" width="600" src="https://github.com/JohnMazino/JohnMazino/blob/main/assets/fastF.jpg">
 </pre>
 </div>
 <div>
